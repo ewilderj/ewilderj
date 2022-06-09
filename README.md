@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My journey in open source started some time before GitHub, so you're unlikely to find too much in the contribution graphs. However, you may find the current information useful about my work in open source.
+My journey in open source started some time before GitHub, so you're unlikely to find too much in the contribution graphs as most of my coding stopped around ten years ago, and I contribute in other ways these days. The benefit of this `README` is that I can tell you about it—non-code contributions are vital for modern open source!
 
 ### Places to reach me
 
