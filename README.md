@@ -30,7 +30,7 @@ My journey in open source started some time before GitHub, so you're unlikely to
 
 ### Interesting historical projects
 
-If you've known me more than a few years, you will probably know [I changed my name](https://medium.com/@edd/wilder-james-57a00bd8822d). Historic OSS contributions all use my previous name.
+If you've known me recently, you might not know [I changed my name](https://medium.com/@edd/wilder-james-57a00bd8822d). Historic OSS contributions all use my previous name.
 
 * I created the [DOAP vocabulary](https://github.com/ewilderj/doap) for describing software projects. This went on to become the foundation for [SPDX](https://spdx.dev/).
 * I was a Debian maintainer, principally looking after the Bluetooth integration
