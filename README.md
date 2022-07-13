@@ -24,7 +24,7 @@ My journey in open source started some time before GitHub, so you're unlikely to
 
 ### Some recent work
 
-* Currently at [Sysdig](https://sysdig.com/), I lead open source ecosystem. As a company we contribute significantly to the [Falco](https://falco.org/) project, as well as maintaining other projects such as [sysdig](https://github.com/draios/sysdig) and [WireShark](https://www.wireshark.org/)
+* Currently at [Sysdig](https://sysdig.com/), I lead open source ecosystem. As a company we contribute significantly to the [Falco](https://falco.org/) project, as well as maintaining other projects such as [sysdig](https://github.com/draios/sysdig) and [WireShark](https://www.wireshark.org/). Here's [why you might want to work with me](https://medium.com/@edd/why-work-with-me-84e7e8b43f15).
 
 * While at Google, I did a lot of working building the [TensorFlow](https://tensorflow.org) and [Kubeflow](https://kubeflow.org/) communities. When I became a manager at Google, my team also looked after engagement with projects like [Go](https://golang.org/), [Kubernetes](https://k8s.io/), [Istio](https://istio.io/) and [Knative](https://knative.dev).
 
