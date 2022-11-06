@@ -19,6 +19,7 @@ My journey in open source started some time before GitHub, so you're unlikely to
 
 ### Places to reach me
 
+* <a rel="me" href="https://hachyderm.io/@ewj">Mastodon</a>
 * [Twitter](https://twitter.com/edd)
 * [LinkedIn](https://www.linkedin.com/in/wilder-james/)
 
