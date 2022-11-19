@@ -22,6 +22,7 @@ My journey in open source started some time before GitHub, so you're unlikely to
 * <a rel="me" href="https://hachyderm.io/@ewj">Mastodon</a>
 * [Twitter](https://twitter.com/edd)
 * [LinkedIn](https://www.linkedin.com/in/wilder-james/)
+* [Keyoxide](https://keyoxide.org/10495B98E88EA70182A7CEBA0CE6525CF7825C28) -- this link asserts my identity, and will also let you send me PGP-encrypted email
 
 ### Some recent work
 
