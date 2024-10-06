@@ -19,14 +19,15 @@ My journey in open source started some time before GitHub, so you're unlikely to
 
 ### Places to reach me
 
+* <a href="https://www.linkedin.com/newsletters/wilder-thoughts-7246946745136414720/">Wilder Thoughts</a>, my weekly newsletter on tech, productivity and work
 * <a rel="me" href="https://hachyderm.io/@ewj">Mastodon</a>
-* [Twitter](https://twitter.com/edd)
 * [LinkedIn](https://www.linkedin.com/in/wilder-james/)
+* [X](https://X.com/edd)
 * [Keyoxide](https://keyoxide.org/10495B98E88EA70182A7CEBA0CE6525CF7825C28) -- this link asserts my identity, and will also let you send me PGP-encrypted email
 
 ### Some recent work
 
-* Currently at [Sysdig](https://sysdig.com/), I lead open source ecosystem. As a company we contribute significantly to the [Falco](https://falco.org/) project, as well as maintaining other projects such as [sysdig](https://github.com/draios/sysdig) and [WireShark](https://www.wireshark.org/). Here's [why you might want to work with me](https://medium.com/@edd/why-work-with-me-84e7e8b43f15).
+* Most recently at [Sysdig](https://sysdig.com/), I led open source ecosystem. As a company Sysdig contributes significantly to the [Falco](https://falco.org/) project, as well as maintaining other projects such as [sysdig](https://github.com/draios/sysdig) and [WireShark](https://www.wireshark.org/). Here's [why you might want to work with me](https://medium.com/@edd/why-work-with-me-84e7e8b43f15).
 
 * While at Google, I did a lot of working building the [TensorFlow](https://tensorflow.org) and [Kubeflow](https://kubeflow.org/) communities. When I became a manager at Google, my team also looked after engagement with projects like [Go](https://golang.org/), [Kubernetes](https://k8s.io/), [Istio](https://istio.io/) and [Knative](https://knative.dev).
 
