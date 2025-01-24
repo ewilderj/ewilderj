@@ -22,6 +22,7 @@ My journey in open source started some time before GitHub, so you're unlikely to
 * <a href="https://www.linkedin.com/newsletters/wilder-thoughts-7246946745136414720/">Wilder Thoughts</a>, my weekly newsletter on tech, productivity and work
 * <a rel="me" href="https://hachyderm.io/@ewj">Mastodon</a>
 * [LinkedIn](https://www.linkedin.com/in/wilder-james/)
+* [BlueSky](https://bsky.app/profile/ewj.me)
 * [X](https://X.com/edd)
 * [Keyoxide](https://keyoxide.org/10495B98E88EA70182A7CEBA0CE6525CF7825C28) -- this link asserts my identity, and will also let you send me PGP-encrypted email
 
