@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My journey in open source started some time before GitHub, so you're unlikely to find too much in the contribution graphs as most of my coding stopped around ten years ago, and I contribute in other ways these days. The benefit of this `README` is that I can tell you about it—non-code contributions are vital for modern open source!
+My journey in open source started some time before GitHub existed, so you're unlikely to find too much in the contribution graphs as most of my coding stopped around ten years ago, and I contribute in other ways these days. The benefit of this `README` is that I can tell you about it—non-code contributions are vital for modern open source!
 
 ### Places to reach me
 
@@ -27,6 +27,8 @@ My journey in open source started some time before GitHub, so you're unlikely to
 * [Keyoxide](https://keyoxide.org/10495B98E88EA70182A7CEBA0CE6525CF7825C28) -- this link asserts my identity, and will also let you send me PGP-encrypted email
 
 ### Some recent work
+
+* In 2025 I joined the staff of GitHub, where I am part of the Technical Program Management leadership.
 
 * Most recently at [Sysdig](https://sysdig.com/), I led open source ecosystem. As a company Sysdig contributes significantly to the [Falco](https://falco.org/) project, as well as maintaining other projects such as [sysdig](https://github.com/draios/sysdig) and [WireShark](https://www.wireshark.org/). Here's [why you might want to work with me](https://medium.com/@edd/why-work-with-me-84e7e8b43f15).
 
