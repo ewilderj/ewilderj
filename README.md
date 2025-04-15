@@ -65,8 +65,8 @@ of my historical contributions at the bottom of this document.
 
 * While at Google, I did a lot of working building the
   [TensorFlow](https://tensorflow.org) and
-  [Kubeflow](https://kubeflow.org/) communities. When I became a
-  manager of the 20 person open source program manager group at Google,
+  [Kubeflow](https://kubeflow.org/) communities. When I became the
+  leader of the 20 person open source program manager group at Google,
   my team also looked after engagement with
   projects like [Go](https://golang.org/),
   [Kubernetes](https://k8s.io/), [Istio](https://istio.io/) and
