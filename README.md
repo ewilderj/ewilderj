@@ -50,7 +50,8 @@ of my historical contributions at the bottom of this document.
 ### Some recent work
 
 * In 2025 I joined the staff of GitHub, where I am part of the
-  Technical Program Management leadership.
+  Technical Program Management leadership. I lead the team of
+  TPMs focused on Copilot.
 
 * Most recently at [Sysdig](https://sysdig.com/), I led open source
   ecosystem. As a company Sysdig contributes significantly to the
