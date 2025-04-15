@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Edd. I work as a technical program management leader inside
-GitHub. I still get to mess around with code in my spare time, where
-Clojure and Rust are my footguns of choice.
+GitHub. I work primarily on Copilot, and security. I still get to mess
+around with code in my spare time, where Clojure and Rust are my footguns
+of choice.
 
 ### Me and open source
 
@@ -71,7 +72,7 @@ of my historical contributions at the bottom of this document.
 
 ### Interesting historical projects
 
-If you've known me recently, you might not know [I changed my
+If you've known for over ten years, you might not know [I changed my
 name](https://medium.com/@edd/wilder-james-57a00bd8822d). Historic OSS
 contributions all use my previous name.
 
