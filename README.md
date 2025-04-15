@@ -66,10 +66,12 @@ of my historical contributions at the bottom of this document.
 * While at Google, I did a lot of working building the
   [TensorFlow](https://tensorflow.org) and
   [Kubeflow](https://kubeflow.org/) communities. When I became a
-  manager at Google, my team also looked after engagement with
+  manager of the 20 person open source program manager group at Google,
+  my team also looked after engagement with
   projects like [Go](https://golang.org/),
   [Kubernetes](https://k8s.io/), [Istio](https://istio.io/) and
-  [Knative](https://knative.dev).
+  [Knative](https://knative.dev), as well as Google Summer of Code
+  and other amazing community endeavors.
 
 ### Interesting historical projects
 
