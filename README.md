@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Edd. I work as a technical program management leader inside
-GitHub. I work primarily on Copilot, and security. I still get to mess
+GitHub. I work primarily on Copilot and the GitHub platform. I still get to mess
 around with code in my spare time, where Clojure and Rust are my footguns
 of choice.
 
@@ -24,12 +24,12 @@ of choice.
 
 My journey in open source started some time before GitHub existed, so
 you're unlikely to find too much in the contribution graphs: most of
-my coding stopped around ten years ago, and I contribute in other ways
+my open source coding stopped around ten years ago, and I contribute in other ways
 these days. The benefit of this `README` is that I can tell you about
 it—non-code contributions are vital for modern open source!
 
-In a nutshell: I created my first open source project in 1999, was
-lucky enough to chair the O'Reilly Open Source Convention from some
+In a nutshell: I created my first open source project in 1999, was a Debian and GNOME contributor,
+was lucky enough to chair the O'Reilly Open Source Convention from some
 years, led open source programs at Google for a while, and have been
 involved in a variety of CNCF open source projects. You can find more
 of my historical contributions at the bottom of this document.
@@ -51,7 +51,7 @@ of my historical contributions at the bottom of this document.
 
 * In 2025 I joined the staff of GitHub, where I am part of the
   Technical Program Management leadership. I lead the team of
-  TPMs focused on Copilot.
+  TPMs focused on Copilot and the GitHub platform.
 
 * Most recently at [Sysdig](https://sysdig.com/), I led open source
   ecosystem. As a company Sysdig contributes significantly to the
@@ -63,7 +63,7 @@ of my historical contributions at the bottom of this document.
   I'm no longer at Sysdig, you can find out about my management
   philosophy here.
 
-* While at Google, I did a lot of working building the
+* While at Google, I did a lot of work building the
   [TensorFlow](https://tensorflow.org) and
   [Kubeflow](https://kubeflow.org/) communities. When I became the
   leader of the 20 person open source program manager group at Google,
