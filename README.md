@@ -24,9 +24,9 @@ of choice.
 
 My journey in open source started some time before GitHub existed, so
 you're unlikely to find too much in the contribution graphs: most of
-my open source coding stopped around ten years ago, and I contribute in other ways
-these days. The benefit of this `README` is that I can tell you about
-it—non-code contributions are vital for modern open source!
+my open source coding stopped around ten years ago. These days I release
+fun experiments and hacks but not anything you'd want to rely on too
+much!
 
 In a nutshell: I created my first open source project in 1999, was a Debian and GNOME contributor,
 was lucky enough to chair the O'Reilly Open Source Convention from some
@@ -75,9 +75,8 @@ of my historical contributions at the bottom of this document.
 
 ### Interesting historical projects
 
-If you've known for over ten years, you might not know [I changed my
-name](https://medium.com/@edd/wilder-james-57a00bd8822d). Historic OSS
-contributions all use my previous name.
+If you've known for over ten years, you might be familiar with me by my
+previous name, Edd Dumbill. Historic OSS contributions all use my previous name.
 
 * I created the [DOAP vocabulary](https://github.com/ewilderj/doap)
   for describing software projects. This went on to become the
